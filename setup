@@ -1,0 +1,6 @@
+# 1. Clone the repository
+git clone https://github.com/aidgoc/logstop.git
+cd logstop
+
+# 2. Create two directories
+mkdir backend frontend
